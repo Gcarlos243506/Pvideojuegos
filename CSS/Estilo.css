@@ -1,0 +1,131 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background: rgb(12, 11, 11);
+  color: rgb(226, 209, 196);
+}
+
+div {
+  width: 1250px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+header {
+  height: 260px;
+  background-image: url("https://www.gamerfocus.co/wp-content/uploads/2020/08/sfvtrial.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: center;
+}
+
+header h1 {
+  color: rgb(196, 62, 13);
+  font-size: 60px;
+  font-style: italic;
+  font-family: Georgia;
+  text-align: center;
+  line-height: 240px;
+}
+
+nav {
+  background: rgb(44, 43, 43);
+  height: 65px;
+  margin-top: 5px;
+}
+
+nav h2 {
+  font-size: 38px;
+  font-style: italic;
+  text-align: center;
+  margin-left: 10px;
+  line-height: 60px;
+}
+
+section {
+  width: 800px;
+  height: 2450px;
+  float: left;
+  background: transparent;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 17px;
+  font-family: arial;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#bloque {
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li {
+  font-size: 20px;
+  font-style: italic;
+  margin-top: 20px;
+  margin-left: 25px;
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+aside {
+  width: 430px;
+  height: 2450px;
+  float: right;
+  background: transparent;
+  margin-top: 10px;
+}
+
+aside img {
+  display: block;
+  margin-top: 55px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+aside h2 {
+  font-size: 20px;
+  font-style: oblique;
+  text-align: center;
+}
+
+aside p {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+footer {
+  background: rgb(44, 43, 43);
+  height: 105px;
+  margin-top: 5px;
+  clear: both;
+}
+
+footer h3 {
+  height: 45px;
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+  padding: 15px;
+}
+
+address {
+  font-size: 25px;
+  text-align: left;
+}
